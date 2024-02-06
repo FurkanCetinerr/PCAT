@@ -33,6 +33,7 @@ coverage
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
+
 # Bower dependency directory (https://bower.io/)
 bower_components
 
@@ -140,5 +141,8 @@ dist
 
 # SvelteKit build / generate output
 .svelte-kit
+
+#temps
+.temp/
 
 # End of https://www.toptal.com/developers/gitignore/api/node
